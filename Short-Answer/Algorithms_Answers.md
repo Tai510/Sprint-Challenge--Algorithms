@@ -8,7 +8,7 @@ a) This algorithm would be O(n) because of the input size
 b) This algorithm would be O(n^3)
 
 
-c) This algorithm would be O(n) recursive with n
+c) This algorithm would be O(n).. recursive with n
 
 ## Exercise II
 
